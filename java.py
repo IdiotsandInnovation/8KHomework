@@ -1,3 +1,5 @@
+# 8KHomework © 2026 by IdiotsAndInnovation is licensed under CC BY-NC-SA 4.0.
+
 import os
 import zipfile
 import urllib.request
