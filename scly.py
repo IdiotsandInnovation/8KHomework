@@ -5,6 +5,9 @@ Please run this script in another desktop, terminal/shell windows are quite sus 
 Do not redistribute this to anyone. If it spreads too fast then it will get patched. Don't leak this script.
 It your teacher asks why they can't see you on Securly, say some BS excuse, and quickly do Ctrl + C in the terminal/shell to terminate this script.
 '''
+### 8KHomework © 2026 by IdiotsAndInnovation is licensed under CC BY-NC-SA 4.0. ###
+
+
 import psutil
 import time
 
