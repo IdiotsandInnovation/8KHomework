@@ -1,12 +1,13 @@
 '''
-IMPORTANT SETUP NOTES:
+IMPORTANT NOTES:
+***You are allowed to redistibute this script following the CC BY-NC-SA standard***
 1. You will probably need to download dependencies via pip using the following commands:
 - python -m pip install ddgs
 - pip install llama-cpp-python --prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu/
 - python -m pip install fastapi uvicorn pydantic
 2. Download a small quantized model in .gguf format and put it in a new folder at "%USERPROFILE%\Documents\Models".
 3. Run this script for the first time. If it returns a command error, that is totally normal.
-4. In cmd, run doskey miniolla=python C:\path\to\miniolla.py $* (replace with the actual path to this script
+4. In cmd, run: doskey miniolla=python C:\path\to\miniollacli.py $* (replace with the actual path to this script
 5. Do miniolla -h for the available commands... there's literally only three. To exit a chat, do Ctrl-C or /bye
 '''
 ### 8KHomework © 2026 by IdiotsAndInnovation is licensed under CC BY-NC-SA 4.0. ###
